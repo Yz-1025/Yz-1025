@@ -4,18 +4,23 @@ A **Computer Science** student at **Hong Kong Baptist University**, specializing
 
 ---
 
+### 🚀 Featured Project: Non-Jupas Management System
+Currently serving as a core developer for a higher education admission management system, focusing on:
+* **Feature Development**: Designing and implementing secure file download and management modules.
+* **Logic & Architecture**: Conceptualizing system logic to transform manual administrative workflows into automated digital processes.
+* **Quality Assurance**: Designing and executing **User Acceptance Testing (UAT)** logic to ensure system reliability and functional precision.
+
 ### 🛡️ Core Competencies
 
-* **System Analysis & Logic Conceptualization**: Expertise in identifying system flaws and manual process bottlenecks to design automated digital solutions.
-* **Backend Development**: Experience in developing core system modules, such as secure file management and download systems, using **Python** and **Java**.
-* **Quality Assurance**: Skilled in designing and executing **User Acceptance Testing (UAT)** logic to ensure technical deliverables align with business objectives.
-* **Technical Integration**: Certified in **Cisco Networking**, Cybersecurity, and Python (PCAP), integrating security best practices into software development.
+* **System Analysis & Logic**: Expertise in identifying system flaws and manual process bottlenecks to design efficient digital solutions.
+* **Backend Development**: Experience in building stable backend logic using **Python** and **Java**.
+* **Technical Integration**: Certified in **Cisco Networking**, Cybersecurity, and Python (PCAP), integrating security best practices into development.
 
 ### 🛠️ Technical Stack
 
 * **Programming**: Python (PCAP Certified), Java, C, JavaScript.
-* **Specializations**: System Analysis (SA), User Acceptance Testing (UAT), IoT Prototyping, Cybersecurity.
-* **Data & Tools**: MongoDB, System Analysis Logic, Networking Fundamentals.
+* **Specializations**: System Analysis (SA), User Acceptance Testing (UAT), IoT Prototyping.
+* **Data & Tools**: MongoDB, Networking Fundamentals, System Analysis Logic.
 
 ### 📜 Certifications
 
